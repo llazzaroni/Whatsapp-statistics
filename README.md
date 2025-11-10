@@ -39,6 +39,10 @@ From the WhatsApp app:
 
 ---
 
-### How to run it
+### Quickstart
 
+Plot the statistics with:
+
+```bash
 python main.py --data DATA_DIR
+```
